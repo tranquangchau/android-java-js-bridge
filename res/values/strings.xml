@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Java - JavaScript Bridge</string>
+    <string name="button_call_javascript">Call JavaScript</string>
+    <string name="textview_title">TextView</string>
+
+</resources>
