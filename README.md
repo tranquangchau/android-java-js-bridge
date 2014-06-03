@@ -8,4 +8,4 @@ Ownership and Licensing
 Copyright (c) 2013, Rob Schlüter
 All rights reserved.
 
-For licensing details see the included LICENSE file.
+Licensed under the Modified BSD license. For details see the LICENSE file.
